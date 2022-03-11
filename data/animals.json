@@ -99,6 +99,15 @@
       "personalityTraits": [
         "hungry"
       ]
+    },
+    {
+      "name": "Elizabeth",
+      "species": "Human",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "goofy"
+      ],
+      "id": "10"
     }
   ]
 }
